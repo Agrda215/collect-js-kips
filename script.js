@@ -346,5 +346,7 @@ setInterval(() => {
   update(0.82);
 }, 400);
 
+document.title = name
+
 // General console.log
 console.log("I Takes to Kips of JS!");
